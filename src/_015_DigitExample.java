@@ -10,6 +10,5 @@ public class _015_DigitExample {
         System.out.println("birler basamaginin degeri: " + c);
         d = b * b + c * c;
         System.out.println("Basamaklarin karelerinin toplami: " + d);
-
     }
 }
