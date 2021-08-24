@@ -11,10 +11,5 @@ public class _015_DigitExample {
         d = b * b + c * c;
         System.out.println("Basamaklarin karelerinin toplami: " + d);
 
-
-
-
-
-
     }
 }
