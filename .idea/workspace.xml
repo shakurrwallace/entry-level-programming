@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe1e6e-c64f-4911-96e8-7e1553877f33" name="Changes" comment="test2">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_018_IfExample6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_019_CorrelationABIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_020_Between100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_021_FormulaIF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_022_TriangleIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_023_FormulaIf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_024_ExampleABIf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_018_IfExample6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_018_IfExample6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_021_FormulaIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_021_FormulaIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_022_TriangleIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_022_TriangleIf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,23 +50,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application._022_TriangleIf">
-    <configuration name="_018_IfExample6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_018_IfExample6" />
-      <module name="entry-level-programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._024_ExampleABIf">
     <configuration name="_019_CorrelationABIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_019_CorrelationABIf" />
-      <module name="entry-level-programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_020_Between100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_020_Between100" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,20 +72,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_023_FormulaIf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_023_FormulaIf2" />
+      <module name="entry-level-programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_024_ExampleABIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_024_ExampleABIf" />
+      <module name="entry-level-programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application._018_IfExample6" />
       <item itemvalue="Application._019_CorrelationABIf" />
-      <item itemvalue="Application._020_Between100" />
       <item itemvalue="Application._021_FormulaIF" />
       <item itemvalue="Application._022_TriangleIf" />
+      <item itemvalue="Application._023_FormulaIf2" />
+      <item itemvalue="Application._024_ExampleABIf" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._024_ExampleABIf" />
+        <item itemvalue="Application._023_FormulaIf2" />
+        <item itemvalue="Application._019_CorrelationABIf" />
         <item itemvalue="Application._022_TriangleIf" />
         <item itemvalue="Application._021_FormulaIF" />
-        <item itemvalue="Application._020_Between100" />
-        <item itemvalue="Application._019_CorrelationABIf" />
-        <item itemvalue="Application._018_IfExample6" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +113,8 @@
       <updated>1629844578118</updated>
       <workItem from="1629844580778" duration="41000" />
       <workItem from="1629844637777" duration="4261000" />
-      <workItem from="1629911453569" duration="4326000" />
+      <workItem from="1629911453569" duration="4587000" />
+      <workItem from="1629991841007" duration="3309000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -144,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629848869756</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test2">
+      <created>1629916136017</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629916136017</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +184,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/_023_FormulaIf2.java</url>
+          <line>1</line>
+          <properties class="_023_FormulaIf2" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

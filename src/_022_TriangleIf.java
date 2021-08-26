@@ -17,7 +17,7 @@ public class _022_TriangleIf {
                     System.out.println("Üçgendir. ");
                 else
                     System.out.println("Üçgen değildir. ");
-                else
+            else
                 System.out.println("Üçgen değildir. ");
         else
         System.out.println("Üçgen değildir. ");

@@ -6,10 +6,11 @@ public class _018_IfExample6 {
         x = kb.nextInt();
         if (x <= 0) {
             y = x * x + 2 * x;
-            z = 3 * x; }
-        else {
+            z = 3 * x;
+        } else {
             y = x;
-            z = x * x + 10; }
+            z = x * x + 10;
+        }
         System.out.println("Y nin değeri: "+ y);
         System.out.println("Z nin değeri: "+ z);
 
