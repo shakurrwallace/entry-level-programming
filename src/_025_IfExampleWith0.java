@@ -7,7 +7,7 @@ public class _025_IfExampleWith0 {
         int n;
         System.out.println("N değeri giriniz: ");
         n = kb.nextInt();
-        if ( n > 0)
+        if ( n != 0)
             System.out.println("0 değildir. ");
 
 
