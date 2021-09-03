@@ -5,7 +5,7 @@ public class _034_ForExample7 {
         int i, n;
         System.out.println("N değeri giriniz: ");
         n = kb.nextInt();
-        for (i = 0; i < n; i = i + 2)
+        for (i = 1; i < n; i = i + 2)
             System.out.println(i);
 
 

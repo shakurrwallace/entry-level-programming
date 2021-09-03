@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe1e6e-c64f-4911-96e8-7e1553877f33" name="Changes" comment="test2">
-      <change afterPath="$PROJECT_DIR$/src/_033_ForExample6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_034_ForExample7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_035_ForExample8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_036_ForExample9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_037_ForExample10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_038_ForExample11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_039_ForExample12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_034_ForExample7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_034_ForExample7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_039_ForExample12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_039_ForExample12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +48,15 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager" selected="Application._039_ForExample12">
-    <configuration name="_035_ForExample8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_035_ForExample8" />
+    <configuration name="_032_ForExample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_032_ForExample5" />
+      <module name="entry-level-programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_034_ForExample7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_034_ForExample7" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,13 +64,6 @@
     </configuration>
     <configuration name="_036_ForExample9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_036_ForExample9" />
-      <module name="entry-level-programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_037_ForExample10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_037_ForExample10" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,19 +84,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._035_ForExample8" />
-      <item itemvalue="Application._036_ForExample9" />
-      <item itemvalue="Application._037_ForExample10" />
       <item itemvalue="Application._038_ForExample11" />
       <item itemvalue="Application._039_ForExample12" />
+      <item itemvalue="Application._032_ForExample5" />
+      <item itemvalue="Application._034_ForExample7" />
+      <item itemvalue="Application._036_ForExample9" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application._039_ForExample12" />
-        <item itemvalue="Application._038_ForExample11" />
-        <item itemvalue="Application._037_ForExample10" />
         <item itemvalue="Application._036_ForExample9" />
-        <item itemvalue="Application._035_ForExample8" />
+        <item itemvalue="Application._034_ForExample7" />
+        <item itemvalue="Application._032_ForExample5" />
+        <item itemvalue="Application._038_ForExample11" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +113,8 @@
       <workItem from="1629911453569" duration="4587000" />
       <workItem from="1629991841007" duration="4946000" />
       <workItem from="1630342792104" duration="2859000" />
-      <workItem from="1630608168186" duration="7514000" />
+      <workItem from="1630608168186" duration="7805000" />
+      <workItem from="1630692160919" duration="869000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -176,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630345636173</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test2">
+      <created>1630615989005</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1630615989006</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,14 +228,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/_035_ForExample8.java</url>
-          <line>1</line>
-          <properties class="_035_ForExample8" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/_037_ForExample10.java</url>
