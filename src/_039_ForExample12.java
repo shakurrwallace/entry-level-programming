@@ -16,9 +16,9 @@ public class _039_ForExample12 {
 
             for (i = 1; i <= n; i = i + 1)
                 if (i % 2 == 0)
-                    System.out.println(i + " çift");
+                    System.out.println(i + " - çift");
                 else
-                    System.out.println(i + " tek");
+                    System.out.println(i + " - tek");
 
 
 
