@@ -13,16 +13,18 @@ public class _039_ForExample12 {
         int n, i;
         System.out.println("N değeri gir: ");
         n = kb.nextInt();
-        if (n % 2 == 0) {
-            for (i = 0; i <= n; i = i + 2)
+
+            for (i = 1; i <= n; i = i + 1)
+                if (i % 2 == 0)
                 System.out.println(i + " çift");
-            for (i = 1; i <= n; i = i + 2)
-                System.out.println(i + " tek"); }
-        else {
-            for (i = 1; i <= n; i = i + 2)
-                System.out.println(i + " tek");
-            for (i = 0; i <= n; i = i + 2)
-                System.out.println(i + " çift"); }
+                else
+                 System.out.println(i + " tek");
+
+
+
+
+
+
 
     }
 }

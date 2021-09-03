@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f8fe1e6e-c64f-4911-96e8-7e1553877f33" name="Changes" comment="test2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_034_ForExample7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_034_ForExample7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/_039_ForExample12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_039_ForExample12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +113,7 @@
       <workItem from="1629991841007" duration="4946000" />
       <workItem from="1630342792104" duration="2859000" />
       <workItem from="1630608168186" duration="7805000" />
-      <workItem from="1630692160919" duration="869000" />
+      <workItem from="1630692160919" duration="3352000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -179,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630615989006</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="test2">
+      <created>1630693167541</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1630693167541</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +242,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/_039_ForExample12.java</url>
+          <line>10</line>
+          <properties class="_039_ForExample12" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
