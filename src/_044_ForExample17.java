@@ -7,7 +7,8 @@
         double c, f, i;
         for (f = 10; f <= 90; f = f + 4) {
             System.out.println("Fahrenheitin değeri: " + f);
-            c = 5.0 / 9 * ( f-32 );
-            System.out.println("Celciusun değeri:" + c); }
+            c = 5.0 / 9 * (f - 32);
+            System.out.println("Celciusun değeri:" + c);
+        }
     }
 }
