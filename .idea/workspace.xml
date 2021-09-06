@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe1e6e-c64f-4911-96e8-7e1553877f33" name="Changes" comment="test2">
-      <change afterPath="$PROJECT_DIR$/src/_044_ForExample17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_045_ForExample18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_046_DiziExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_047_DiziExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_048_DiziExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_049_DiziExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_050_DiziExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,56 +51,56 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application._044_ForExample17">
-    <configuration name="_036_ForExample9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_036_ForExample9" />
+  <component name="RunManager" selected="Application._050_DiziExample">
+    <configuration name="_046_DiziExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_046_DiziExample" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_040_ForExample13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_040_ForExample13" />
+    <configuration name="_047_DiziExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_047_DiziExample2" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_041_ForExample14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_041_ForExample14" />
+    <configuration name="_048_DiziExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_048_DiziExample3" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_043_ForExample16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_043_ForExample16" />
+    <configuration name="_049_DiziExample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_049_DiziExample4" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_044_ForExample17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_044_ForExample17" />
+    <configuration name="_050_DiziExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_050_DiziExample" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._036_ForExample9" />
-      <item itemvalue="Application._040_ForExample13" />
-      <item itemvalue="Application._041_ForExample14" />
-      <item itemvalue="Application._043_ForExample16" />
-      <item itemvalue="Application._044_ForExample17" />
+      <item itemvalue="Application._046_DiziExample" />
+      <item itemvalue="Application._047_DiziExample2" />
+      <item itemvalue="Application._048_DiziExample3" />
+      <item itemvalue="Application._049_DiziExample4" />
+      <item itemvalue="Application._050_DiziExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._044_ForExample17" />
-        <item itemvalue="Application._043_ForExample16" />
-        <item itemvalue="Application._036_ForExample9" />
-        <item itemvalue="Application._041_ForExample14" />
-        <item itemvalue="Application._040_ForExample13" />
+        <item itemvalue="Application._050_DiziExample" />
+        <item itemvalue="Application._049_DiziExample4" />
+        <item itemvalue="Application._048_DiziExample3" />
+        <item itemvalue="Application._047_DiziExample2" />
+        <item itemvalue="Application._046_DiziExample" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +120,10 @@
       <workItem from="1630608168186" duration="7805000" />
       <workItem from="1630692160919" duration="4466000" />
       <workItem from="1630778615948" duration="2190000" />
-      <workItem from="1630781055862" duration="4983000" />
+      <workItem from="1630781055862" duration="5293000" />
+      <workItem from="1630950793197" duration="647000" />
+      <workItem from="1630951767785" duration="2278000" />
+      <workItem from="1630954074942" duration="4521000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -215,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630784784486</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="test2">
+      <created>1630786280962</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1630786280962</updated>
+    </task>
+    <task id="LOCAL-00016" summary="test2">
+      <created>1630786323465</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1630786323465</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,6 +326,30 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/_044_ForExample17.java</url>
+          <line>5</line>
+          <properties class="_044_ForExample17" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/_046_DiziExample.java</url>
+          <line>7</line>
+          <properties class="_046_DiziExample" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/_050_DiziExample.java</url>
+          <line>5</line>
+          <properties class="_050_DiziExample" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/_043_ForExample16.java</url>
