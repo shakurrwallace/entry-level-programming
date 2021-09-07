@@ -7,6 +7,7 @@ public class _050_DiziExample {
         int a[] = {4, 8, 3, 1, 18, 9, 21, 20, 5, 7};
         int i, b;
         b = 0;
+
         for (i = 1; i < 10; i = i + 1)
             if ( a[i] % 2 != 0)
                 System.out.println(a[i]);

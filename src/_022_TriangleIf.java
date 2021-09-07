@@ -20,7 +20,7 @@ public class _022_TriangleIf {
             else
                 System.out.println("Üçgen değildir. ");
         else
-        System.out.println("Üçgen değildir. ");
+            System.out.println("Üçgen değildir. ");
 
 
     }

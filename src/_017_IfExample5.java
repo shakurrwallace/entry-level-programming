@@ -18,7 +18,7 @@ public class _017_IfExample5 {
             if (a == c)
                 System.out.println("İkizkenardır. ");
             else
-                if (b ==c)
+                if (b == c)
                     System.out.println("İkizkenardır");
                 else
                     System.out.println("İkizkenar değildir.");

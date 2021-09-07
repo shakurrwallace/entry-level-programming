@@ -8,9 +8,10 @@ public class _049_DiziExample4 {
         int i, sum, avg;
         sum = 0;
         for (i = 1; i < 10; i = i + 1)
-            sum = (a[i]) + sum;
-                avg = sum / 2;
-                    System.out.println(avg);
+            sum = a[i] + sum;
 
+        avg = sum / 10;
+        System.out.println(avg);
+        System.out.println(sum);
     }
 }

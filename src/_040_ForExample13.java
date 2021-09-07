@@ -9,7 +9,8 @@
         a = kb.nextInt();
         System.out.println("B değeri giriniz: ");
         b = kb.nextInt();
-            for (i = a + (5 - a % 5); i < b; i = i + 5)
-                System.out.println(i);
+
+        for (i = a + (5 - a % 5); i < b; i = i + 5)
+            System.out.println(i);
     }
 }

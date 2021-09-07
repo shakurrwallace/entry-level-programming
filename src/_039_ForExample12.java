@@ -14,11 +14,11 @@ public class _039_ForExample12 {
         System.out.println("N değeri gir: ");
         n = kb.nextInt();
 
-            for (i = 1; i <= n; i = i + 1)
-                if (i % 2 == 0)
-                    System.out.println(i + " - çift");
-                else
-                    System.out.println(i + " - tek");
+        for (i = 1; i <= n; i = i + 1)
+            if (i % 2 == 0)
+                System.out.println(i + " - çift");
+            else
+                System.out.println(i + " - tek");
 
 
 
