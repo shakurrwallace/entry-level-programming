@@ -11,6 +11,7 @@
                     if (i % 5 == 0)
                         System.out.print( "  " + i);
                     else
-                        System.out.print(" "); }
+                        System.out.print(" "); 
+        }
     }
 }
