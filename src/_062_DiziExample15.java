@@ -10,7 +10,7 @@ public class _062_DiziExample15 {
         min = a[0];
 
         for (i = 1; i < 10; i= i + 1)
-            if (min > a[i])
+            if (min < a[i])
                 min = a[i];
 
 
