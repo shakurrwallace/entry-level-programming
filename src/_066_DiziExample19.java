@@ -20,7 +20,7 @@ public class _066_DiziExample19 {
                     sum2 = sum2 + a[i];
                     cnt2 = cnt2 + 1;
             }
-            else {
+                else {
                 sum = sum + a[i];
                 cnt = cnt + 1;
         }
