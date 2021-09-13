@@ -10,7 +10,7 @@ public class _048_DiziExample3 {
         for (i = 0;i < 10; i = i + 1)
             sum = a[i] + sum;
 
-        System.out.println("Toplamı" + sum);
+        System.out.println("Toplamı: " + sum);
 
 
 

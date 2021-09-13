@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe1e6e-c64f-4911-96e8-7e1553877f33" name="Changes" comment="test2">
-      <change afterPath="$PROJECT_DIR$/src/_063_DiziExample16HWRK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_064_DiziExample17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_065_DiziExample18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_066_DiziExample19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_067_DiziExample20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_068_DiziExample21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_069_DiziExample22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_070_DiziExample23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_057_DiziExample10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_057_DiziExample10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_047_DiziExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_047_DiziExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_048_DiziExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_048_DiziExample3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_050_DiziExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_050_DiziExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_053_DiziExample6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_053_DiziExample6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/_062_DiziExample15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_062_DiziExample15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,56 +59,56 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application._053_DiziExample6">
-    <configuration name="_053_DiziExample6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_053_DiziExample6" />
+  <component name="RunManager" selected="Application._069_DiziExample22">
+    <configuration name="_065_DiziExample18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_065_DiziExample18" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_056_DiziExample9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_056_DiziExample9" />
+    <configuration name="_066_DiziExample19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_066_DiziExample19" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_061_DiziExample14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_061_DiziExample14" />
+    <configuration name="_067_DiziExample20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_067_DiziExample20" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_062_DiziExample15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_062_DiziExample15" />
+    <configuration name="_068_DiziExample21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_068_DiziExample21" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_063_DiziExample16HWRK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_063_DiziExample16HWRK" />
+    <configuration name="_069_DiziExample22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_069_DiziExample22" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._061_DiziExample14" />
-      <item itemvalue="Application._062_DiziExample15" />
-      <item itemvalue="Application._063_DiziExample16HWRK" />
-      <item itemvalue="Application._056_DiziExample9" />
-      <item itemvalue="Application._053_DiziExample6" />
+      <item itemvalue="Application._065_DiziExample18" />
+      <item itemvalue="Application._066_DiziExample19" />
+      <item itemvalue="Application._067_DiziExample20" />
+      <item itemvalue="Application._068_DiziExample21" />
+      <item itemvalue="Application._069_DiziExample22" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._053_DiziExample6" />
-        <item itemvalue="Application._056_DiziExample9" />
-        <item itemvalue="Application._063_DiziExample16HWRK" />
-        <item itemvalue="Application._061_DiziExample14" />
-        <item itemvalue="Application._062_DiziExample15" />
+        <item itemvalue="Application._069_DiziExample22" />
+        <item itemvalue="Application._068_DiziExample21" />
+        <item itemvalue="Application._067_DiziExample20" />
+        <item itemvalue="Application._066_DiziExample19" />
+        <item itemvalue="Application._065_DiziExample18" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +132,9 @@
       <workItem from="1630950793197" duration="647000" />
       <workItem from="1630951767785" duration="2278000" />
       <workItem from="1630954074942" duration="4521000" />
-      <workItem from="1631121007770" duration="2418000" />
+      <workItem from="1631121007770" duration="2453000" />
+      <workItem from="1631292806191" duration="1483000" />
+      <workItem from="1631551585657" duration="7052000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -244,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631045871771</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="test2">
+      <created>1631123450060</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1631123450060</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,10 +408,39 @@
           </properties>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/_060_DiziExample13.java</url>
+          <line>6</line>
+          <properties class="_060_DiziExample13" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/_065_DiziExample18.java</url>
+          <line>5</line>
+          <properties class="_065_DiziExample18" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/_068_DiziExample21.java</url>
+          <line>6</line>
+          <properties class="_068_DiziExample21" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/_043_ForExample16_TODO.java</url>
           <line>8</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_068_DiziExample21.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

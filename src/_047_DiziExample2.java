@@ -1,4 +1,4 @@
-/** 5 elemanlı a[] dizisine 2 den başlayan 0 ları atayan program
+/** 5 elemanlı a[] dizisine 2 den başlayan çift  sayıları atayan program
  *
  *
  *
