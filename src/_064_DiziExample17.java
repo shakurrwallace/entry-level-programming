@@ -9,14 +9,14 @@ public class _064_DiziExample17 {
         sum = 0;
         cnt = 0;
         size = 10;
-        for (i = 0; i <10; i = i + 1)
+        for (i = 0; i < size; i = i + 1)
             if (a[i] % 2 != 0) {
                 sum = sum + a[i];
                 cnt = cnt + 1;
             }
         System.out.println("Toplam: " + sum);
         System.out.println("Adeti: " + cnt);
-        avg = sum / size;
+        avg = sum / cnt;
         System.out.println("Ortalaması: " + avg);
 
     }

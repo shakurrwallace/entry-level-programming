@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe1e6e-c64f-4911-96e8-7e1553877f33" name="Changes" comment="test2">
-      <change afterPath="$PROJECT_DIR$/src/_064_DiziExample17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_065_DiziExample18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_066_DiziExample19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_067_DiziExample20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_068_DiziExample21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_069_DiziExample22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_070_DiziExample23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_047_DiziExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_047_DiziExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_048_DiziExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_048_DiziExample3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_050_DiziExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_050_DiziExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_053_DiziExample6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_053_DiziExample6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_062_DiziExample15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_062_DiziExample15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +122,7 @@
       <workItem from="1630954074942" duration="4521000" />
       <workItem from="1631121007770" duration="2453000" />
       <workItem from="1631292806191" duration="1483000" />
-      <workItem from="1631551585657" duration="7052000" />
+      <workItem from="1631551585657" duration="8121000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -262,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631123450060</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="test2">
+      <created>1631562456091</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1631562456091</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
