@@ -21,8 +21,8 @@ public class _066_DiziExample19 {
                     cnt2 = cnt2 + 1;
                 }
                 else {
-                sum = sum + a[i];
-                cnt = cnt + 1;
+                    sum = sum + a[i];
+                    cnt = cnt + 1;
                 }
         System.out.println("Çift sayılar toplamı: " + sum2);
         System.out.println("Çift sayılar adetleri: " + cnt2);
