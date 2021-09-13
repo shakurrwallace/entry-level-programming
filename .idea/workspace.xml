@@ -47,7 +47,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application._069_DiziExample22">
+  <component name="RunManager" selected="Application._066_DiziExample19">
     <configuration name="_065_DiziExample18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_065_DiziExample18" />
       <module name="entry-level-programming" />
@@ -92,10 +92,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._066_DiziExample19" />
         <item itemvalue="Application._069_DiziExample22" />
         <item itemvalue="Application._068_DiziExample21" />
         <item itemvalue="Application._067_DiziExample20" />
-        <item itemvalue="Application._066_DiziExample19" />
         <item itemvalue="Application._065_DiziExample18" />
       </list>
     </recent_temporary>
@@ -122,7 +122,7 @@
       <workItem from="1630954074942" duration="4521000" />
       <workItem from="1631121007770" duration="2453000" />
       <workItem from="1631292806191" duration="1483000" />
-      <workItem from="1631551585657" duration="8121000" />
+      <workItem from="1631551585657" duration="8491000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -257,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631562456091</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="test2">
+      <created>1631563898264</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1631563898264</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

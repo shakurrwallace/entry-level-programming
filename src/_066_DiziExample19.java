@@ -17,12 +17,12 @@ public class _066_DiziExample19 {
         for (i = 0; i < size; i = i + 1 )
             if ( a[i] < n)
                 if (a[i] % 2 == 0) {
-                sum2 = sum2 + a[i];
-                cnt2 = cnt2 + 1;
+                    sum2 = sum2 + a[i];
+                    cnt2 = cnt2 + 1;
             }
             else {
-            sum = sum + a[i];
-            cnt = cnt + 1;
+                sum = sum + a[i];
+                cnt = cnt + 1;
         }
         System.out.println("Çift sayılar toplamı: " + sum2);
         System.out.println("Çift sayılar adetleri: " + cnt2);
