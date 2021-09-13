@@ -19,11 +19,11 @@ public class _066_DiziExample19 {
                 if (a[i] % 2 == 0) {
                     sum2 = sum2 + a[i];
                     cnt2 = cnt2 + 1;
-            }
+                }
                 else {
                 sum = sum + a[i];
                 cnt = cnt + 1;
-        }
+                }
         System.out.println("Çift sayılar toplamı: " + sum2);
         System.out.println("Çift sayılar adetleri: " + cnt2);
         System.out.println("Tek sayılar toplamı: " + sum);
