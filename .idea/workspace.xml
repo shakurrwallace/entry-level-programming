@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe1e6e-c64f-4911-96e8-7e1553877f33" name="Changes" comment="test2">
-      <change afterPath="$PROJECT_DIR$/src/_071_DiziExample24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_072_Diziexample25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_073_DiziExample26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_074_DiziExample27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_075_DiziExample28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_075_DiziExample28v2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_076_DiziExample29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_077_DiziExample30HMWRK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_078_ForhomeworkCemhoca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,16 +54,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._075_DiziExample28">
-    <configuration name="_073_DiziExample26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_073_DiziExample26" />
+  <component name="RunManager" selected="Application._078_ForhomeworkCemhoca">
+    <configuration name="_015_DigitExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_015_DigitExample" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_074_DiziExample27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_074_DiziExample27" />
+    <configuration name="_073_DiziExample26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_073_DiziExample26" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,15 +76,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_075_DiziExample28v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_075_DiziExample28v2" />
+    <configuration name="_077_DiziExample30HMWRK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_077_DiziExample30HMWRK" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_076_DiziExample29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_076_DiziExample29" />
+    <configuration name="_078_ForhomeworkCemhoca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_078_ForhomeworkCemhoca" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,18 +92,18 @@
     </configuration>
     <list>
       <item itemvalue="Application._073_DiziExample26" />
-      <item itemvalue="Application._074_DiziExample27" />
       <item itemvalue="Application._075_DiziExample28" />
-      <item itemvalue="Application._076_DiziExample29" />
-      <item itemvalue="Application._075_DiziExample28v2" />
+      <item itemvalue="Application._077_DiziExample30HMWRK" />
+      <item itemvalue="Application._078_ForhomeworkCemhoca" />
+      <item itemvalue="Application._015_DigitExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._075_DiziExample28" />
-        <item itemvalue="Application._075_DiziExample28v2" />
-        <item itemvalue="Application._076_DiziExample29" />
-        <item itemvalue="Application._074_DiziExample27" />
+        <item itemvalue="Application._078_ForhomeworkCemhoca" />
+        <item itemvalue="Application._015_DigitExample" />
+        <item itemvalue="Application._077_DiziExample30HMWRK" />
         <item itemvalue="Application._073_DiziExample26" />
+        <item itemvalue="Application._075_DiziExample28" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +130,8 @@
       <workItem from="1631121007770" duration="2453000" />
       <workItem from="1631292806191" duration="1483000" />
       <workItem from="1631551585657" duration="10741000" />
-      <workItem from="1631640690385" duration="9492000" />
+      <workItem from="1631640690385" duration="9665000" />
+      <workItem from="1631781001993" duration="18660000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -326,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631566669314</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="test2">
+      <created>1631650261465</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1631650261465</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,6 +514,22 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/_077_DiziExample30HMWRK.java</url>
+          <line>6</line>
+          <properties class="_077_DiziExample30HMWRK" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/_078_ForhomeworkCemhoca.java</url>
+          <line>5</line>
+          <properties class="_078_ForhomeworkCemhoca" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/_043_ForExample16_TODO.java</url>
