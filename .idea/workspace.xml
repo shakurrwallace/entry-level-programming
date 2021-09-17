@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe1e6e-c64f-4911-96e8-7e1553877f33" name="Changes" comment="test2">
-      <change afterPath="$PROJECT_DIR$/src/_077_DiziExample30HMWRK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_078_ForhomeworkCemhoca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_077_DiziExample30HMWRK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_077_DiziExample30HMWRK.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._078_ForhomeworkCemhoca">
+  <component name="RunManager" selected="Application._077_DiziExample30HMWRK">
     <configuration name="_015_DigitExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_015_DigitExample" />
       <module name="entry-level-programming" />
@@ -99,9 +98,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._077_DiziExample30HMWRK" />
         <item itemvalue="Application._078_ForhomeworkCemhoca" />
         <item itemvalue="Application._015_DigitExample" />
-        <item itemvalue="Application._077_DiziExample30HMWRK" />
         <item itemvalue="Application._073_DiziExample26" />
         <item itemvalue="Application._075_DiziExample28" />
       </list>
@@ -131,7 +130,7 @@
       <workItem from="1631292806191" duration="1483000" />
       <workItem from="1631551585657" duration="10741000" />
       <workItem from="1631640690385" duration="9665000" />
-      <workItem from="1631781001993" duration="18660000" />
+      <workItem from="1631781001993" duration="27026000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -329,7 +328,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631650261465</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="test2">
+      <created>1631822253134</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1631822253134</updated>
+    </task>
+    <task id="LOCAL-00030" summary="test2">
+      <created>1631822320419</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1631822320419</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

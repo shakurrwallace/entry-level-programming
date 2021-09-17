@@ -13,11 +13,11 @@ public class _077_DiziExample30HMWRK {
         temp = a[0];
 
 
-        for (i = 0; i < size ; i = i + 1)
-            a[size - 1 - i] = a[i];
-        for (i = 0; i < size; i = i + 1)
-            a[i] = a[i];
-        for (i = 0 ; i < size ; i = i + 1)
-            System.out.print(a[i] + " ");
+        for (i = size - 1 ; i > 0 ; i = i - 1) {
+            a[i- 1] = a[i];
+        }
+
+        System.out.print(a[i] + "  ");
+
     }
 }
