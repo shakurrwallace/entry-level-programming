@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe1e6e-c64f-4911-96e8-7e1553877f33" name="Changes" comment="test2">
-      <change afterPath="$PROJECT_DIR$/src/_078DiziExample31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_079_DiziExample32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_080_DiziExample33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_081_DiziExample34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_082_DiziExample35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_083_DiziExample36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_084_DiziExample37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_085_DiziExample38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_086_DiziExample39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_087_DiziExample40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_087_DiziExample41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_088_DiziExample42.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_077_DiziExample30HMWRK.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,14 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._087_DiziExample41">
-    <configuration name="_080_DiziExample33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_080_DiziExample33" />
-      <module name="entry-level-programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._088_DiziExample42">
     <configuration name="_085_DiziExample38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_085_DiziExample38" />
       <module name="entry-level-programming" />
@@ -100,20 +82,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_088_DiziExample42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_088_DiziExample42" />
+      <module name="entry-level-programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application._080_DiziExample33" />
       <item itemvalue="Application._085_DiziExample38" />
       <item itemvalue="Application._086_DiziExample39" />
       <item itemvalue="Application._087_DiziExample40" />
       <item itemvalue="Application._087_DiziExample41" />
+      <item itemvalue="Application._088_DiziExample42" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._088_DiziExample42" />
         <item itemvalue="Application._087_DiziExample41" />
         <item itemvalue="Application._087_DiziExample40" />
         <item itemvalue="Application._086_DiziExample39" />
         <item itemvalue="Application._085_DiziExample38" />
-        <item itemvalue="Application._080_DiziExample33" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +134,7 @@
       <workItem from="1631944716383" duration="8172000" />
       <workItem from="1632149656805" duration="4913000" />
       <workItem from="1632248940689" duration="2707000" />
-      <workItem from="1632305905592" duration="15978000" />
+      <workItem from="1632305905592" duration="17664000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -364,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631893134497</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="test2">
+      <created>1632345739753</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1632345739754</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
