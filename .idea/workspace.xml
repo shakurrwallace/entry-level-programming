@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe1e6e-c64f-4911-96e8-7e1553877f33" name="Changes" comment="test2">
-      <change afterPath="$PROJECT_DIR$/src/_088_DiziExample42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_089_DiziExample43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_090_DiziExample44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_091_DiziExample45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_092_DiziExample46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_093_DiziExample47HMWRK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_094_DiziExample48HMWRK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_095_DiziExample49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_096_DiziExample50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_096_DiziExample51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_097_DiziExample52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_097_DrawingExample53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_098_DrawingExample54.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,56 +64,56 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._088_DiziExample42">
-    <configuration name="_085_DiziExample38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_085_DiziExample38" />
+  <component name="RunManager" selected="Application._094_DiziExample48HMWRK">
+    <configuration name="_090_DiziExample44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_090_DiziExample44" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_086_DiziExample39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_086_DiziExample39" />
+    <configuration name="_094_DiziExample48HMWRK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_094_DiziExample48HMWRK" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_087_DiziExample40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_087_DiziExample40" />
+    <configuration name="_097_DiziExample52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_097_DiziExample52" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_087_DiziExample41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_087_DiziExample41" />
+    <configuration name="_097_DrawingExample53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_097_DrawingExample53" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_088_DiziExample42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_088_DiziExample42" />
+    <configuration name="_098_DrawingExample54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_098_DrawingExample54" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._085_DiziExample38" />
-      <item itemvalue="Application._086_DiziExample39" />
-      <item itemvalue="Application._087_DiziExample40" />
-      <item itemvalue="Application._087_DiziExample41" />
-      <item itemvalue="Application._088_DiziExample42" />
+      <item itemvalue="Application._097_DiziExample52" />
+      <item itemvalue="Application._097_DrawingExample53" />
+      <item itemvalue="Application._098_DrawingExample54" />
+      <item itemvalue="Application._090_DiziExample44" />
+      <item itemvalue="Application._094_DiziExample48HMWRK" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._088_DiziExample42" />
-        <item itemvalue="Application._087_DiziExample41" />
-        <item itemvalue="Application._087_DiziExample40" />
-        <item itemvalue="Application._086_DiziExample39" />
-        <item itemvalue="Application._085_DiziExample38" />
+        <item itemvalue="Application._094_DiziExample48HMWRK" />
+        <item itemvalue="Application._090_DiziExample44" />
+        <item itemvalue="Application._098_DrawingExample54" />
+        <item itemvalue="Application._097_DrawingExample53" />
+        <item itemvalue="Application._097_DiziExample52" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +145,13 @@
       <workItem from="1631944716383" duration="8172000" />
       <workItem from="1632149656805" duration="4913000" />
       <workItem from="1632248940689" duration="2707000" />
-      <workItem from="1632305905592" duration="17664000" />
+      <workItem from="1632305905592" duration="17909000" />
+      <workItem from="1632507645814" duration="2128000" />
+      <workItem from="1632549296749" duration="4519000" />
+      <workItem from="1632558396572" duration="6802000" />
+      <workItem from="1632635731367" duration="11049000" />
+      <workItem from="1632767619729" duration="458000" />
+      <workItem from="1632768102821" duration="2505000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -360,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632345739754</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="test2">
+      <created>1632347657980</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1632347657980</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,6 +593,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/_093_DiziExample47HMWRK.java</url>
+          <line>5</line>
+          <properties class="_093_DiziExample47HMWRK" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/_043_ForExample16_TODO.java</url>
