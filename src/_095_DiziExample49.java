@@ -15,7 +15,8 @@ public class _095_DiziExample49 {
         for (k = 0; k < 5; k = k + 1) {
             for (i = 0; i < size; i = i + 1)
                 System.out.print(a[i] + " ");
-                System.out.println();
-        }
+            System.out.println();
+            }
+
     }
 }

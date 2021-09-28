@@ -12,9 +12,8 @@ public class _096_DiziExample51 {
 
         for (i = 0; i < size; i = i + 1) {
             for (k = 1; k <= a[i]; k = k + 1)
-
                 System.out.print(a[i]+ " " );
-                System.out.println();
+            System.out.println();
 
         }
     }

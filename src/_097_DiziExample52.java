@@ -14,7 +14,7 @@ public class _097_DiziExample52 {
         n = kb.nextInt();
 
         for (i = n; i >= 1; i = i - 1) {
-            for (k = n; k >= i; k = k - 1)
+            for (k = i; k >= 1; k = k - 1)
                 System.out.print("*");
             System.out.println();
         }

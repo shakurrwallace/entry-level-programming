@@ -24,8 +24,8 @@ public class _094_DiziExample48HMWRK {
                 pMin = i;
                 }
 
-            a[pMax] = min;
-            a[pMin] = max;
+        a[pMax] = min;
+        a[pMin] = max;
         for (i = 0; i < size; i = i + 1)
             System.out.print(a[i] + " ");
     }
