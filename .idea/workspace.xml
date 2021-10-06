@@ -2,11 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe1e6e-c64f-4911-96e8-7e1553877f33" name="Changes" comment="test2">
-      <change afterPath="$PROJECT_DIR$/src/_107_DiziExample53HMWRK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_108_DiziExample54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_109_DrawingExampleLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_110_MatrisExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_111_MatrisExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_112_MatrisExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_113_MatrisExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_114_MatrisExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_115_MatrisExample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_116_MatrisExample7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_117_MatrisExample8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_118_MatrisExample9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_119_MatrisExample10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_120_MatrisExample11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_121_MatrisExample12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_122_MatrisExample13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_123_MatrisExample14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_124_MatrisExample15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_125_MatrisExample16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_126_WhileDefinitionExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_127_While.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_104_DiziExample50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_104_DiziExample50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_105_DiziExample51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_105_DiziExample51.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,56 +71,56 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._108_DiziExample54">
-    <configuration name="_096_DiziExample50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_096_DiziExample50" />
+  <component name="RunManager" selected="Application._126_WhileDefinitionExample1">
+    <configuration name="_114_MatrisExample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_114_MatrisExample5" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_097_DrawingExample53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_097_DrawingExample53" />
+    <configuration name="_120_MatrisExample11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_120_MatrisExample11" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_106_DiziExample52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_106_DiziExample52" />
+    <configuration name="_124_MatrisExample15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_124_MatrisExample15" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_107_DiziExample53HMWRK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_107_DiziExample53HMWRK" />
+    <configuration name="_126_WhileDefinitionExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_126_WhileDefinitionExample1" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_108_DiziExample54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_108_DiziExample54" />
+    <configuration name="_127_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_127_While" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._097_DrawingExample53" />
-      <item itemvalue="Application._096_DiziExample50" />
-      <item itemvalue="Application._106_DiziExample52" />
-      <item itemvalue="Application._107_DiziExample53HMWRK" />
-      <item itemvalue="Application._108_DiziExample54" />
+      <item itemvalue="Application._126_WhileDefinitionExample1" />
+      <item itemvalue="Application._127_While" />
+      <item itemvalue="Application._114_MatrisExample5" />
+      <item itemvalue="Application._120_MatrisExample11" />
+      <item itemvalue="Application._124_MatrisExample15" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._108_DiziExample54" />
-        <item itemvalue="Application._107_DiziExample53HMWRK" />
-        <item itemvalue="Application._106_DiziExample52" />
-        <item itemvalue="Application._096_DiziExample50" />
-        <item itemvalue="Application._097_DrawingExample53" />
+        <item itemvalue="Application._126_WhileDefinitionExample1" />
+        <item itemvalue="Application._124_MatrisExample15" />
+        <item itemvalue="Application._120_MatrisExample11" />
+        <item itemvalue="Application._114_MatrisExample5" />
+        <item itemvalue="Application._127_While" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +161,15 @@
       <workItem from="1632768102821" duration="2520000" />
       <workItem from="1632845866954" duration="12958000" />
       <workItem from="1633099655145" duration="130000" />
-      <workItem from="1633107868906" duration="6087000" />
+      <workItem from="1633107868906" duration="6290000" />
+      <workItem from="1633154139633" duration="12201000" />
+      <workItem from="1633204731838" duration="3193000" />
+      <workItem from="1633240580821" duration="8365000" />
+      <workItem from="1633250960987" duration="3107000" />
+      <workItem from="1633336480816" duration="3881000" />
+      <workItem from="1633388376521" duration="2614000" />
+      <workItem from="1633367788145" duration="258000" />
+      <workItem from="1633425574937" duration="4803000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -393,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632860468233</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="test2">
+      <created>1633116852243</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1633116852243</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
