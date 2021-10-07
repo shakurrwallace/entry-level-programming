@@ -2,26 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe1e6e-c64f-4911-96e8-7e1553877f33" name="Changes" comment="test2">
-      <change afterPath="$PROJECT_DIR$/src/_109_DrawingExampleLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_110_MatrisExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_111_MatrisExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_112_MatrisExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_113_MatrisExample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_114_MatrisExample5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_115_MatrisExample6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_116_MatrisExample7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_117_MatrisExample8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_118_MatrisExample9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_119_MatrisExample10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_120_MatrisExample11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_121_MatrisExample12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_122_MatrisExample13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_123_MatrisExample14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_124_MatrisExample15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_125_MatrisExample16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_126_WhileDefinitionExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_127_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_122_MatrisExample13_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_128_WhileExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_129_WhileExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_130_WhileExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_131_WhileExample6HMWRK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_118_MatrisExample9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_118_MatrisExample9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_120_MatrisExample11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_120_MatrisExample11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_121_MatrisExample12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_121_MatrisExample12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_123_MatrisExample14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_123_MatrisExample14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_125_MatrisExample16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_125_MatrisExample16.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,56 +62,56 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._126_WhileDefinitionExample1">
-    <configuration name="_114_MatrisExample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_114_MatrisExample5" />
+  <component name="RunManager" selected="Application._131_WhileExample6HMWRK">
+    <configuration name="_123_MatrisExample14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_123_MatrisExample14" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_120_MatrisExample11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_120_MatrisExample11" />
+    <configuration name="_128_WhileExample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_128_WhileExample4" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_124_MatrisExample15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_124_MatrisExample15" />
+    <configuration name="_129_WhileExample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_129_WhileExample5" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_126_WhileDefinitionExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_126_WhileDefinitionExample1" />
+    <configuration name="_130_WhileExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_130_WhileExample3" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_127_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_127_While" />
+    <configuration name="_131_WhileExample6HMWRK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_131_WhileExample6HMWRK" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._126_WhileDefinitionExample1" />
-      <item itemvalue="Application._127_While" />
-      <item itemvalue="Application._114_MatrisExample5" />
-      <item itemvalue="Application._120_MatrisExample11" />
-      <item itemvalue="Application._124_MatrisExample15" />
+      <item itemvalue="Application._123_MatrisExample14" />
+      <item itemvalue="Application._130_WhileExample3" />
+      <item itemvalue="Application._128_WhileExample4" />
+      <item itemvalue="Application._129_WhileExample5" />
+      <item itemvalue="Application._131_WhileExample6HMWRK" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._126_WhileDefinitionExample1" />
-        <item itemvalue="Application._124_MatrisExample15" />
-        <item itemvalue="Application._120_MatrisExample11" />
-        <item itemvalue="Application._114_MatrisExample5" />
-        <item itemvalue="Application._127_While" />
+        <item itemvalue="Application._131_WhileExample6HMWRK" />
+        <item itemvalue="Application._129_WhileExample5" />
+        <item itemvalue="Application._128_WhileExample4" />
+        <item itemvalue="Application._130_WhileExample3" />
+        <item itemvalue="Application._123_MatrisExample14" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +161,8 @@
       <workItem from="1633388376521" duration="2614000" />
       <workItem from="1633367788145" duration="258000" />
       <workItem from="1633425574937" duration="4803000" />
+      <workItem from="1633500240331" duration="40000" />
+      <workItem from="1633626574747" duration="8024000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -423,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633116852243</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="test2">
+      <created>1633500266281</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1633500266281</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -640,6 +640,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/_128_WhileExample4.java</url>
+          <line>6</line>
+          <properties class="_128_WhileExample4" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/_043_ForExample16_TODO.java</url>

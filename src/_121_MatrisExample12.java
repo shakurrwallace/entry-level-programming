@@ -1,7 +1,8 @@
 /**
  *
- * a matrisinin transpozesini b matrisine alan program
- * bu soruyu sor
+ *      a matrisinin transpozesini b matrisine alan program
+ *      bu soruyu sor
+ *
  */
 public class _121_MatrisExample12 {
     public static void main(String[] args) {

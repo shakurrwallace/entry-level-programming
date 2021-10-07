@@ -18,6 +18,6 @@ public class _118_MatrisExample9 {
             for (k = 0; k < col; k = k + 1)
                 if (m[i][k] > max)
                     max = m[i][k];
-            System.out.println("En büyük sayı: " + max);
+            System.out.print("En büyük sayı: " + max);
     }
 }

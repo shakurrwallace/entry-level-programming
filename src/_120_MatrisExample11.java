@@ -14,7 +14,7 @@ public class _120_MatrisExample11 {
         col = 3;
         for (i = 0; i < col; i = i + 1) {
             max = m[0][i];
-            for (k = 0; k < row; k = k + 1)
+            for (k = 1; k < row; k = k + 1)
                 if (m[k][i] > max)
                     max =  m[k][i];
 
