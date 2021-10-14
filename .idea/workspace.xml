@@ -2,17 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe1e6e-c64f-4911-96e8-7e1553877f33" name="Changes" comment="test2">
-      <change afterPath="$PROJECT_DIR$/src/_122_MatrisExample13_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_128_WhileExample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_129_WhileExample5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_130_WhileExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_131_WhileExample6HMWRK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_132_WhileDiziExampleLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_133_DiziExampleLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_134_DiziExampleLesson2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_135_DiziExampleLesson3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_136_DiziExampleLesson4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_137_DiziExampleLesson5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_138_DiziExampleLesson5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_139_MethodExampleLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_140_MethodLEssonExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_141_MethodLEssonExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_142_MethodLEssonExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_143_MethodLEssonExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_144_MethodLEssonExample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_145_MethodLEssonExample7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_146_ExerciseandRepeat1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_147_ExerciseandRepeat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_148_ExerciseandRepeat3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_149_ExerciseandRepeat4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_150_ExerciseandRepeat5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_151_ExerciseandRepeat6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_152_ExerciseandRepeat7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_153_ExerciseandRepeat8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_118_MatrisExample9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_118_MatrisExample9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_120_MatrisExample11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_120_MatrisExample11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_121_MatrisExample12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_121_MatrisExample12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_123_MatrisExample14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_123_MatrisExample14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_125_MatrisExample16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_125_MatrisExample16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_131_WhileExample6HMWRK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_131_WhileExample6HMWRK.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,56 +75,56 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._131_WhileExample6HMWRK">
-    <configuration name="_123_MatrisExample14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_123_MatrisExample14" />
+  <component name="RunManager" selected="Application._153_ExerciseandRepeat8">
+    <configuration name="_149_ExerciseandRepeat4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_149_ExerciseandRepeat4" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_128_WhileExample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_128_WhileExample4" />
+    <configuration name="_150_ExerciseandRepeat5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_150_ExerciseandRepeat5" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_129_WhileExample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_129_WhileExample5" />
+    <configuration name="_151_ExerciseandRepeat6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_151_ExerciseandRepeat6" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_130_WhileExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_130_WhileExample3" />
+    <configuration name="_152_ExerciseandRepeat7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_152_ExerciseandRepeat7" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_131_WhileExample6HMWRK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_131_WhileExample6HMWRK" />
+    <configuration name="_153_ExerciseandRepeat8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_153_ExerciseandRepeat8" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._123_MatrisExample14" />
-      <item itemvalue="Application._130_WhileExample3" />
-      <item itemvalue="Application._128_WhileExample4" />
-      <item itemvalue="Application._129_WhileExample5" />
-      <item itemvalue="Application._131_WhileExample6HMWRK" />
+      <item itemvalue="Application._149_ExerciseandRepeat4" />
+      <item itemvalue="Application._150_ExerciseandRepeat5" />
+      <item itemvalue="Application._151_ExerciseandRepeat6" />
+      <item itemvalue="Application._152_ExerciseandRepeat7" />
+      <item itemvalue="Application._153_ExerciseandRepeat8" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._131_WhileExample6HMWRK" />
-        <item itemvalue="Application._129_WhileExample5" />
-        <item itemvalue="Application._128_WhileExample4" />
-        <item itemvalue="Application._130_WhileExample3" />
-        <item itemvalue="Application._123_MatrisExample14" />
+        <item itemvalue="Application._153_ExerciseandRepeat8" />
+        <item itemvalue="Application._152_ExerciseandRepeat7" />
+        <item itemvalue="Application._151_ExerciseandRepeat6" />
+        <item itemvalue="Application._150_ExerciseandRepeat5" />
+        <item itemvalue="Application._149_ExerciseandRepeat4" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +175,12 @@
       <workItem from="1633367788145" duration="258000" />
       <workItem from="1633425574937" duration="4803000" />
       <workItem from="1633500240331" duration="40000" />
-      <workItem from="1633626574747" duration="8024000" />
+      <workItem from="1633626574747" duration="8074000" />
+      <workItem from="1633758918243" duration="13027000" />
+      <workItem from="1633845765664" duration="11989000" />
+      <workItem from="1633945484263" duration="6620000" />
+      <workItem from="1634036396240" duration="4743000" />
+      <workItem from="1634230751722" duration="8650000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -423,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633500266281</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="test2">
+      <created>1633634632197</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1633634632197</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
