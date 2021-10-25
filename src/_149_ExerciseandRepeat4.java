@@ -11,6 +11,7 @@ public class _149_ExerciseandRepeat4 {
         size = a.length;
         temp= 0;
         total = 1000;
+
         for (i = 0; i < total; i = i + 1) {
             ind1 = generator.nextInt(size);
             ind2 = generator.nextInt(size);

@@ -1,9 +1,8 @@
-/**N klavyeden girilen pozitif bir sayıdır 1 den n e kadar olan tek ve çift sayıların toplamlarını ayrı ayrı hesaplayan program
+/**
+ * N klavyeden girilen pozitif bir sayıdır 1 den n e kadar olan tek ve çift sayıların toplamlarını ayrı ayrı hesaplayan program
  *
  *
  */
-
-
 public class _043_ForExample16_TODO {
     public static void main(String[] args) {
         java.util.Scanner kb = new java.util.Scanner(System.in);

@@ -2,30 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe1e6e-c64f-4911-96e8-7e1553877f33" name="Changes" comment="test2">
-      <change afterPath="$PROJECT_DIR$/src/_132_WhileDiziExampleLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_133_DiziExampleLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_134_DiziExampleLesson2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_135_DiziExampleLesson3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_136_DiziExampleLesson4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_137_DiziExampleLesson5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_138_DiziExampleLesson5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_139_MethodExampleLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_140_MethodLEssonExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_141_MethodLEssonExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_142_MethodLEssonExample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_143_MethodLEssonExample5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_144_MethodLEssonExample6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_145_MethodLEssonExample7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_146_ExerciseandRepeat1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_147_ExerciseandRepeat2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_148_ExerciseandRepeat3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_149_ExerciseandRepeat4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_150_ExerciseandRepeat5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_151_ExerciseandRepeat6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_152_ExerciseandRepeat7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_153_ExerciseandRepeat8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/_001_RepeatSwapofVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_002_RepeatofDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_003_RepeatIF_example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_004_RepeatIF_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_005_RepeatIf_DigitDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_006_IFexample_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_007_IFexample_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_008_IfExample_Correlation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_009_IfExample_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_010_IfExample_Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_011_ForExample_Beginning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_012_ForExample_Beginning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_013_ForExample_Beginning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_014_ForExample_ABCORRELATION.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_015_ForExample_Nexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_016_ForExample_Nexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_017_ForExample_OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_018_ForExample_345.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_019_ForExample_OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_020_ForExample_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_154_GeneratorExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_155_GeneratorExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_156_GeneratorExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_157_TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_158_DiziExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_159_DiziExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_160_DiziExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_131_WhileExample6HMWRK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_131_WhileExample6HMWRK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry-level-programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/entry-level-programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_040_ForExample13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_040_ForExample13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_043_ForExample16_TODO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_043_ForExample16_TODO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_045_ForExample18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_045_ForExample18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_143_MethodLEssonExample5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_143_MethodLEssonExample5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_147_ExerciseandRepeat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_147_ExerciseandRepeat2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_148_ExerciseandRepeat3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_148_ExerciseandRepeat3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_149_ExerciseandRepeat4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_149_ExerciseandRepeat4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,71 +84,95 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._153_ExerciseandRepeat8">
-    <configuration name="_149_ExerciseandRepeat4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_149_ExerciseandRepeat4" />
+  <component name="RunManager" selected="Application._020_ForExample_Sum">
+    <configuration name="_018_ForExample_345" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src._018_ForExample_345" />
+      <module name="entry-level-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_020_ForExample_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src._020_ForExample_Sum" />
+      <module name="entry-level-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_040_ForExample13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_040_ForExample13" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_150_ExerciseandRepeat5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_150_ExerciseandRepeat5" />
+    <configuration name="_041_ForExample_OddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src._041_ForExample_OddEven" />
       <module name="entry-level-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_151_ExerciseandRepeat6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_151_ExerciseandRepeat6" />
-      <module name="entry-level-programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_152_ExerciseandRepeat7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_152_ExerciseandRepeat7" />
-      <module name="entry-level-programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_153_ExerciseandRepeat8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_153_ExerciseandRepeat8" />
+    <configuration name="_045_ForExample18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_045_ForExample18" />
       <module name="entry-level-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._149_ExerciseandRepeat4" />
-      <item itemvalue="Application._150_ExerciseandRepeat5" />
-      <item itemvalue="Application._151_ExerciseandRepeat6" />
-      <item itemvalue="Application._152_ExerciseandRepeat7" />
-      <item itemvalue="Application._153_ExerciseandRepeat8" />
+      <item itemvalue="Application._040_ForExample13" />
+      <item itemvalue="Application._018_ForExample_345" />
+      <item itemvalue="Application._041_ForExample_OddEven" />
+      <item itemvalue="Application._045_ForExample18" />
+      <item itemvalue="Application._020_ForExample_Sum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._153_ExerciseandRepeat8" />
-        <item itemvalue="Application._152_ExerciseandRepeat7" />
-        <item itemvalue="Application._151_ExerciseandRepeat6" />
-        <item itemvalue="Application._150_ExerciseandRepeat5" />
-        <item itemvalue="Application._149_ExerciseandRepeat4" />
+        <item itemvalue="Application._020_ForExample_Sum" />
+        <item itemvalue="Application._045_ForExample18" />
+        <item itemvalue="Application._041_ForExample_OddEven" />
+        <item itemvalue="Application._018_ForExample_345" />
+        <item itemvalue="Application._040_ForExample13" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +228,12 @@
       <workItem from="1633845765664" duration="11989000" />
       <workItem from="1633945484263" duration="6620000" />
       <workItem from="1634036396240" duration="4743000" />
-      <workItem from="1634230751722" duration="8650000" />
+      <workItem from="1634230751722" duration="9478000" />
+      <workItem from="1634313278210" duration="1799000" />
+      <workItem from="1634364622361" duration="14768000" />
+      <workItem from="1634583233254" duration="2769000" />
+      <workItem from="1635171587215" duration="500000" />
+      <workItem from="1635176609660" duration="7328000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -448,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633634632197</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="test2">
+      <created>1634239741809</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1634239741813</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,6 +527,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test" />
     <MESSAGE value="test2" />
     <option name="LAST_COMMIT_MESSAGE" value="test2" />
@@ -475,60 +536,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/_020_Between100.java</url>
-          <line>1</line>
-          <properties class="_020_Between100" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/_023_FormulaIf2.java</url>
-          <line>1</line>
-          <properties class="_023_FormulaIf2" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/_025_IfExampleWith0.java</url>
           <line>3</line>
           <properties class="_025_IfExampleWith0" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/_037_ForExample10.java</url>
-          <line>1</line>
-          <properties class="_037_ForExample10" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/_039_ForExample12.java</url>
-          <line>10</line>
-          <properties class="_039_ForExample12" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/_040_ForExample13.java</url>
-          <line>4</line>
-          <properties class="_040_ForExample13" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/_043_ForExample16_TODO.java</url>
-          <line>7</line>
-          <properties class="_043_ForExample16_TODO" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/_036_ForExample9.java</url>
@@ -673,11 +686,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_043_ForExample16_TODO.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/_068_DiziExample21.java</url>

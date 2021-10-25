@@ -22,5 +22,16 @@ public class _143_MethodLEssonExample5 {
             if (a[i] != b[i])
                 count = count + 1;
         System.out.println(count + " adet elemanın yeri değişmiş. ");
+        for (i = 0; i <size; i = i + 1) {
+            if (a[i] < 10)
+                System.out.print(" ");
+            System.out.print(a[i] + " ");
+        }
+        System.out.println();
+        for (i = 0; i <size; i = i +1) {
+            if (b[i] < 10)
+                System.out.print(" ");
+            System.out.print(b[i] + " ");
+        }
     }
 }

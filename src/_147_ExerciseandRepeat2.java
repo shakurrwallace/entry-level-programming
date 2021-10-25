@@ -9,7 +9,7 @@ public class _147_ExerciseandRepeat2 {
         size = 1000;
 
         cnt = 0;
-        cntEven =0;
+        cntEven = 0;
         for (i = 1; i <= size; i = i + 1) {
             n = generator.nextInt(10);
             if (n % 2 != 0)

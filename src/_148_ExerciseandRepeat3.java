@@ -9,7 +9,7 @@ public class _148_ExerciseandRepeat3 {
         int a[] = {4, 8, 3, 1, 18, 9, 21, 20, 5, 17};
         int i, size,total, ind1, ind2, temp;
         size = a.length;
-        temp= 0;
+        temp = 0;
 
             ind1 = generator.nextInt(size);
             ind2 = generator.nextInt(size);
