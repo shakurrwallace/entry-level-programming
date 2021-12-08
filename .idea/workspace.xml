@@ -2,59 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fe1e6e-c64f-4911-96e8-7e1553877f33" name="Changes" comment="test2">
-      <change afterPath="$PROJECT_DIR$/Practises/src/_021_ArrayExample_Beginning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_022_ArrayExample_Even.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_023_ArrayExample_Average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_024_ArrayExample_Odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_025_ArrayExample_Assign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_026_ArrayExample_Minimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_027_ArrayExample_Minimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_028_ArrayExample_XY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_029_ArrayExample_Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_030_ArrayExample_Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_031_ArrayExample_Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_032_ArrayExample_AlgoEvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_033_ArrayExample_Times.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_034_ArrayExample_MinMaxSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_035_ArrayExample_Orient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_036_ArrayExample_Orient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_037_Practice1Dec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_039_Practice1Dec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practises/src/_040_Practice1Dec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_161_Mines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_162_Nibbles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practises/src/_042_AreaOfRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practises/_001_RepeatSwapofVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practises/_001_RepeatSwapofVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_027_ForExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_027_ForExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_046_DiziExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_046_DiziExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_048_DiziExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_048_DiziExample3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_049_DiziExample4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_049_DiziExample4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_052_ForExample20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_052_ForExample20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_063_DiziExample16HWRK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_063_DiziExample16HWRK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_066_DiziExample19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_066_DiziExample19TOREPEAT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_068_DiziExample21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_068_DiziExample21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_071_DiziExample24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_071_DiziExample24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_072_Diziexample25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_072_Diziexample25TOREPEAT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_076_DiziExample29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_076_DiziExample29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_078DiziExample31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_078DiziExample31TOREPEAT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_079_DiziExample32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_079_DiziExample32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_080_DiziExample33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_080_DiziExample33TOASK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_087_DiziExample41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_087_DiziExample41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_091_DiziExample45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_091_DiziExample45TOASK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_092_DiziExample46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_092_DiziExample46TOASK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_102_DiziExample48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_102_DiziExample48.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_108_DiziExample54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_108_DiziExample54.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_116_MatrisExample7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_116_MatrisExample7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_121_MatrisExample12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_121_MatrisExample12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_122_MatrisExample13_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_122_MatrisExample13_2TOASK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_125_MatrisExample16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_125_MatrisExample16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_127_While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_127_While.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_129_WhileExample5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_129_WhileExample5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_132_WhileDiziExampleLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_132_WhileDiziExampleLessonTOASK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_142_MethodLEssonExample4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_142_MethodLEssonExample4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_143_MethodLEssonExample5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_143_MethodLEssonExample5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_144_MethodLEssonExample6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_144_MethodLEssonExample6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practises/src/_041_AreaOfCirclePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practises/src/_041_AreaOfCirclePractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,14 +60,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._040_Practice1Dec">
-    <configuration name="_001_RepeatSwapofVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_001_RepeatSwapofVariables" />
-      <module name="entry-level-programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._042_AreaOfRectangle">
     <configuration name="_037_Practice1Dec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src._037_Practice1Dec" />
       <module name="entry-level-programming" />
@@ -157,27 +100,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_162_Nibbles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_162_Nibbles" />
+    <configuration name="_041_AreaOfCirclePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src._041_AreaOfCirclePractice" />
       <module name="entry-level-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_042_AreaOfRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src._042_AreaOfRectangle" />
+      <module name="entry-level-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._001_RepeatSwapofVariables" />
-      <item itemvalue="Application._162_Nibbles" />
       <item itemvalue="Application._037_Practice1Dec" />
       <item itemvalue="Application._039_Practice1Dec" />
       <item itemvalue="Application._040_Practice1Dec" />
+      <item itemvalue="Application._041_AreaOfCirclePractice" />
+      <item itemvalue="Application._042_AreaOfRectangle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._042_AreaOfRectangle" />
+        <item itemvalue="Application._041_AreaOfCirclePractice" />
         <item itemvalue="Application._040_Practice1Dec" />
         <item itemvalue="Application._039_Practice1Dec" />
         <item itemvalue="Application._037_Practice1Dec" />
-        <item itemvalue="Application._162_Nibbles" />
-        <item itemvalue="Application._001_RepeatSwapofVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -255,6 +217,7 @@
       <workItem from="1638212714130" duration="666000" />
       <workItem from="1638350427821" duration="3882000" />
       <workItem from="1638781290591" duration="51000" />
+      <workItem from="1638955993784" duration="2226000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1629845007407</created>
@@ -536,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635189267054</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="test2">
+      <created>1638956218041</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1638956218041</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

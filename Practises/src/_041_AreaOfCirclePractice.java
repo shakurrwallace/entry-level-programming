@@ -1,3 +1,7 @@
+/*
+ *  Çember alanını hesaplayan program
+ *
+ */
 package src;
 
 public class _041_AreaOfCirclePractice {
@@ -15,7 +19,6 @@ class Math {
         double r = Integer.parseInt(kb.nextLine());
 
         double pi = 3.14;
-        double area = pi * r * r;
 
         Util.display(NumberUtil.Calculate(pi, r));
     }
