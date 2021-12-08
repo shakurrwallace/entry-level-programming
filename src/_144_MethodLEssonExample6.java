@@ -4,7 +4,7 @@
 while döngüsü 6 farklı sayı üretilene kadar, tekrar tekrar yapılacak işler: sayı üretilecek, daha önce üretilmiş mi diye bakılacak,
  üretilmediyse diziye atanacak ve sayaç 1 arttırılacak.
  size adet şu aralıkta farklı sayı üretiyor = teldeki foto
-***** bu soruyu sor***
+*
  */
 
 public class _144_MethodLEssonExample6 {
@@ -18,8 +18,19 @@ public class _144_MethodLEssonExample6 {
         while ( count != size) {
             n = generator.nextInt(10);
             flag = 0;
-
+            for (i = 0; i < count; i = i + 1)
+                if (n == a[i])
+                    flag = 1;
+            if (flag == 0) {
+                a[count] = n;
+                count = count + 1;
+            }
         }
+                for(i = 0; i < size; i = i + 1)
+                    System.out.print(a[i] + " ");
+
+
+
 
 
 

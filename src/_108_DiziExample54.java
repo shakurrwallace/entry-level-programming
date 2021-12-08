@@ -8,7 +8,6 @@
 
 
 * */
-
 public class _108_DiziExample54 {
     public static void main(String[] args) {
      java.util.Scanner kb = new java.util.Scanner(System.in);

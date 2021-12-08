@@ -9,7 +9,7 @@ public class _102_DiziExample48 {
         int i, k, size;
 
         size = a.length;
-        for (i = 0; i < size -1; i = i + 1) {
+        for (i = 0; i < size; i = i + 1) {
             for (k = a[i] % 2; k <= 1; k = k + 1)
                 System.out.print(a[i] + " ");
             System.out.println();

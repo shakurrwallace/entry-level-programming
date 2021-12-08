@@ -7,9 +7,11 @@ public class _127_While {
         java.util.Scanner kb = new java.util.Scanner(System.in);
         int n, sum;
         sum = 0;
-        System.out.println("N değeri giriniz: ");
-        n = kb.nextInt();
-        while (n <= 1000)
+        while (sum <= 1000) {
+            System.out.println("N değeri giriniz: ");
+            n = kb.nextInt();
+            sum = sum + n;
+        }
 
         System.out.println("toplam : " + sum);
 

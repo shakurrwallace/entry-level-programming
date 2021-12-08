@@ -8,7 +8,7 @@
  *      *
  *      ÇIKTI DEĞERİ BU ÇIKACAK
  */
-public class _122_MatrisExample13_2 {
+public class _122_MatrisExample13_2TOASK {
     public static void main(String[] args) {
         int  m[][] = new int [5][5];
         int i, k,  row, col;

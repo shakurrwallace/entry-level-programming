@@ -7,7 +7,7 @@
  *
  *
  */
-public class _092_DiziExample46 {
+public class _092_DiziExample46TOASK {
     public static void main(String[] args) {
         int a[] = {4, 8, 3, 1, 18, 9, 21, 20, 5, 17};
         int i, k, p, size;

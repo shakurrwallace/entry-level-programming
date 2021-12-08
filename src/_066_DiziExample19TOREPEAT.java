@@ -2,7 +2,7 @@
  *
  *
  */
-public class _066_DiziExample19 {
+public class _066_DiziExample19TOREPEAT {
     public static void main(String[] args) {
         int a[] = {4, 8, 3, 1, 18, 9, 21, 20, 5, 17};
         int i, n, size,cntOdd, cntEven, sumOdd, sumEven;

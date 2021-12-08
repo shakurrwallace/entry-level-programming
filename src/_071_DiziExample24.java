@@ -9,7 +9,6 @@ public class _071_DiziExample24 {
         int i, n, size ;
         size = 10;
 
-
         System.out.println("N değeri giriniz: ");
         n = kb.nextInt();
 

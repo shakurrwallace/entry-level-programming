@@ -1,4 +1,4 @@
-/** a dizisine b dizisine ters atayan program
+/** a dizisini b dizisine ters atayan program
  *
  *
  *

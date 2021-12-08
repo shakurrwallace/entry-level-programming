@@ -15,9 +15,9 @@ public class _068_DiziExample21 {
         y = kb.nextInt();
         for (i = 0; i < size; i = i + 1) {
             if (a[i] < x)
-                System.out.println(a[i] + " ");
+                System.out.print(a[i] + " ");
             if (a[i] > y)
-                System.out.println(a[i] + " ");
+                System.out.print(a[i] + " ");
         }
     }
 }

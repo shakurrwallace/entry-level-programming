@@ -12,7 +12,7 @@ public class _046_DiziExample {
     for (i = 0; i < 10; i = i + 1 )
         a[i] = 7;
     for (i = 0; i < 10; i = i + 1 )
-        System.out.println(a[i]);
+        System.out.println(" " + a[i]);
 
 
 

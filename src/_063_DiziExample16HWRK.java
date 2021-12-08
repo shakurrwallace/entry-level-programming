@@ -1,4 +1,4 @@
-/**Dizideki tek sayıları ve tek sayıların adetini ekrana yazdıran program
+/**Dizideki tek sayıların toplamını  ve tek sayıların adetini ekrana yazdıran program
  *
  *
  *

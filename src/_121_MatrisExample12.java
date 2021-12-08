@@ -7,9 +7,9 @@
 public class _121_MatrisExample12 {
     public static void main(String[] args) {
         int ma[][] = {{5, 7, 3},
-                {15, 6, 10},
-                {22, 9, 1},
-                {11, 14, 18}};
+                    {15, 6, 10},
+                    {22, 9, 1},
+                    {11, 14, 18}};
         int mb[][] = new int [3][4];
         int i, k, rowA, colA, rowB, colB;
         rowA = 4;

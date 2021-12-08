@@ -3,7 +3,7 @@
  *
  *
  */
-public class _132_WhileDiziExampleLesson {
+public class _132_WhileDiziExampleLessonTOASK {
     public static void main(String[] args) {
         int a[] = {4, 8, 3, 1, 18, 9, 21, 20, 5, 17};
         int i, size, flag;

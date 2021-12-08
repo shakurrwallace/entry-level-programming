@@ -2,7 +2,7 @@
  * bu soruyu sor ****
  *
  */
-public class _080_DiziExample33 {
+public class _080_DiziExample33TOASK {
     public static void main(String[] args) {
         int a[] = {4, 8, 3, 1, 18, 9, 21, 20, 5, 17};
         java.util.Scanner kb = new java.util.Scanner(System.in);

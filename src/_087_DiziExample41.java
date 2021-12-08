@@ -6,21 +6,24 @@
 public class _087_DiziExample41 {
     public static void main(String[] args) {
         int a[] = {4, 8, 3, 1, 18, 9, 21, 20, 5, 17};
-
-        int i, size, oddPosition, temp;
+        int b[] = new int[10];
+        int i, size, oddPosition,evenPosition;
         size  = 10;
-        oddPosition = 0;
+        oddPosition = size - 1;
+        evenPosition = 0;
 
         for (i = 0; i < size; i = i + 1 )
             if (a[i] % 2 != 0) {
-                temp = a[i];
-                a[i] = a[oddPosition];
-                a[oddPosition] = temp;
-                oddPosition = oddPosition + 1;
+                b[oddPosition] = a[i];
+                oddPosition = oddPosition - 1;
+            }
+            else {
+                b[evenPosition] = a[i];
+                evenPosition = evenPosition + 1;
             }
 
         for (i = 0; i < size; i = i + 1)
-            System.out.print(a[i] +  " ");
+            System.out.print(" " + b[i]);
 
 
     }

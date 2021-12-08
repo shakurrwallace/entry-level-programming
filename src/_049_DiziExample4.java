@@ -1,4 +1,5 @@
-/** Dizideki sayıların ortalaması
+/**
+ * Dizideki sayıların ortalaması
  *
  *
  */
